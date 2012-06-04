@@ -1,4 +1,4 @@
 jquery-pluggins
 ===============
 
-iFrameTool for Jauqey
+iFrameTool for jquery
